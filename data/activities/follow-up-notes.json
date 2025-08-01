@@ -1,0 +1,12 @@
+{
+  "id": "follow-up-notes",
+  "title": "Follow-up support",
+  "instruction": "Record an educator-selected next activity without a clinical label.",
+  "options": [
+    "comfortable",
+    "support-needed",
+    "not-observed"
+  ],
+  "clinical_diagnosis": false,
+  "purpose": "Teacher-supported educational observation"
+}
