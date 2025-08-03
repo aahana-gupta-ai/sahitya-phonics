@@ -1,0 +1,43 @@
+{
+  "id": "vowel-patterns-ai",
+  "title": "Common vowel patterns: ai",
+  "unit": "vowel-patterns",
+  "level": 5,
+  "sequence": 41,
+  "pattern": "ai",
+  "words": [
+    "rain",
+    "mail",
+    "tail"
+  ],
+  "minutes": 10,
+  "review_status": "new-demo-curriculum-unreviewed",
+  "steps": [
+    {
+      "label": "Listen",
+      "instruction": "An adult models the pattern ai in rain. Discuss accent differences where relevant."
+    },
+    {
+      "label": "Blend",
+      "instruction": "Read rain, mail, tail together. Use sounds modelled by the teacher rather than deriving phonemes from letter count."
+    },
+    {
+      "label": "Practice",
+      "instruction": "Find the written pattern ai and read the word aloud."
+    },
+    {
+      "label": "Apply",
+      "instruction": "Use one example word in a spoken sentence, then stop or repeat according to comfort."
+    }
+  ],
+  "quiz": {
+    "prompt": "Which written word contains the pattern “ai”?",
+    "choices": [
+      "rain",
+      "pen",
+      "cat"
+    ],
+    "answer": "rain"
+  },
+  "teacher_note": "These are new illustrative lesson plans, not the original Sahitya curriculum. Word pronunciation and pattern choice require local teacher review."
+}
