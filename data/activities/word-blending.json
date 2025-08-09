@@ -1,0 +1,12 @@
+{
+  "id": "word-blending",
+  "title": "Supported blending",
+  "instruction": "Invite blending after the teacher has modelled the sound sequence.",
+  "options": [
+    "comfortable",
+    "support-needed",
+    "not-observed"
+  ],
+  "clinical_diagnosis": false,
+  "purpose": "Teacher-supported educational observation"
+}
