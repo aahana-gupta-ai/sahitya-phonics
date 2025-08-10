@@ -1,0 +1,557 @@
+{
+  "project": "sahitya-phonics",
+  "items": [
+    {
+      "id": "initial-consonants-b",
+      "title": "Initial consonants: b",
+      "path": "data/lessons/initial-consonants-b.json",
+      "kind": "lesson",
+      "unit": "initial-consonants",
+      "level": 1
+    },
+    {
+      "id": "initial-consonants-c",
+      "title": "Initial consonants: c",
+      "path": "data/lessons/initial-consonants-c.json",
+      "kind": "lesson",
+      "unit": "initial-consonants",
+      "level": 1
+    },
+    {
+      "id": "initial-consonants-d",
+      "title": "Initial consonants: d",
+      "path": "data/lessons/initial-consonants-d.json",
+      "kind": "lesson",
+      "unit": "initial-consonants",
+      "level": 1
+    },
+    {
+      "id": "initial-consonants-f",
+      "title": "Initial consonants: f",
+      "path": "data/lessons/initial-consonants-f.json",
+      "kind": "lesson",
+      "unit": "initial-consonants",
+      "level": 1
+    },
+    {
+      "id": "initial-consonants-g",
+      "title": "Initial consonants: g",
+      "path": "data/lessons/initial-consonants-g.json",
+      "kind": "lesson",
+      "unit": "initial-consonants",
+      "level": 1
+    },
+    {
+      "id": "initial-consonants-h",
+      "title": "Initial consonants: h",
+      "path": "data/lessons/initial-consonants-h.json",
+      "kind": "lesson",
+      "unit": "initial-consonants",
+      "level": 1
+    },
+    {
+      "id": "initial-consonants-j",
+      "title": "Initial consonants: j",
+      "path": "data/lessons/initial-consonants-j.json",
+      "kind": "lesson",
+      "unit": "initial-consonants",
+      "level": 1
+    },
+    {
+      "id": "initial-consonants-l",
+      "title": "Initial consonants: l",
+      "path": "data/lessons/initial-consonants-l.json",
+      "kind": "lesson",
+      "unit": "initial-consonants",
+      "level": 1
+    },
+    {
+      "id": "initial-consonants-m",
+      "title": "Initial consonants: m",
+      "path": "data/lessons/initial-consonants-m.json",
+      "kind": "lesson",
+      "unit": "initial-consonants",
+      "level": 1
+    },
+    {
+      "id": "initial-consonants-n",
+      "title": "Initial consonants: n",
+      "path": "data/lessons/initial-consonants-n.json",
+      "kind": "lesson",
+      "unit": "initial-consonants",
+      "level": 1
+    },
+    {
+      "id": "short-vowels-a",
+      "title": "Short vowels and word families: a",
+      "path": "data/lessons/short-vowels-a.json",
+      "kind": "lesson",
+      "unit": "short-vowels",
+      "level": 2
+    },
+    {
+      "id": "short-vowels-e",
+      "title": "Short vowels and word families: e",
+      "path": "data/lessons/short-vowels-e.json",
+      "kind": "lesson",
+      "unit": "short-vowels",
+      "level": 2
+    },
+    {
+      "id": "short-vowels-i",
+      "title": "Short vowels and word families: i",
+      "path": "data/lessons/short-vowels-i.json",
+      "kind": "lesson",
+      "unit": "short-vowels",
+      "level": 2
+    },
+    {
+      "id": "short-vowels-o",
+      "title": "Short vowels and word families: o",
+      "path": "data/lessons/short-vowels-o.json",
+      "kind": "lesson",
+      "unit": "short-vowels",
+      "level": 2
+    },
+    {
+      "id": "short-vowels-u",
+      "title": "Short vowels and word families: u",
+      "path": "data/lessons/short-vowels-u.json",
+      "kind": "lesson",
+      "unit": "short-vowels",
+      "level": 2
+    },
+    {
+      "id": "short-vowels-at",
+      "title": "Short vowels and word families: at",
+      "path": "data/lessons/short-vowels-at.json",
+      "kind": "lesson",
+      "unit": "short-vowels",
+      "level": 2
+    },
+    {
+      "id": "short-vowels-en",
+      "title": "Short vowels and word families: en",
+      "path": "data/lessons/short-vowels-en.json",
+      "kind": "lesson",
+      "unit": "short-vowels",
+      "level": 2
+    },
+    {
+      "id": "short-vowels-in",
+      "title": "Short vowels and word families: in",
+      "path": "data/lessons/short-vowels-in.json",
+      "kind": "lesson",
+      "unit": "short-vowels",
+      "level": 2
+    },
+    {
+      "id": "short-vowels-og",
+      "title": "Short vowels and word families: og",
+      "path": "data/lessons/short-vowels-og.json",
+      "kind": "lesson",
+      "unit": "short-vowels",
+      "level": 2
+    },
+    {
+      "id": "short-vowels-ug",
+      "title": "Short vowels and word families: ug",
+      "path": "data/lessons/short-vowels-ug.json",
+      "kind": "lesson",
+      "unit": "short-vowels",
+      "level": 2
+    },
+    {
+      "id": "consonant-patterns-sh",
+      "title": "Consonant digraphs and trigraphs: sh",
+      "path": "data/lessons/consonant-patterns-sh.json",
+      "kind": "lesson",
+      "unit": "consonant-patterns",
+      "level": 3
+    },
+    {
+      "id": "consonant-patterns-ch",
+      "title": "Consonant digraphs and trigraphs: ch",
+      "path": "data/lessons/consonant-patterns-ch.json",
+      "kind": "lesson",
+      "unit": "consonant-patterns",
+      "level": 3
+    },
+    {
+      "id": "consonant-patterns-th",
+      "title": "Consonant digraphs and trigraphs: th",
+      "path": "data/lessons/consonant-patterns-th.json",
+      "kind": "lesson",
+      "unit": "consonant-patterns",
+      "level": 3
+    },
+    {
+      "id": "consonant-patterns-wh",
+      "title": "Consonant digraphs and trigraphs: wh",
+      "path": "data/lessons/consonant-patterns-wh.json",
+      "kind": "lesson",
+      "unit": "consonant-patterns",
+      "level": 3
+    },
+    {
+      "id": "consonant-patterns-ck",
+      "title": "Consonant digraphs and trigraphs: ck",
+      "path": "data/lessons/consonant-patterns-ck.json",
+      "kind": "lesson",
+      "unit": "consonant-patterns",
+      "level": 3
+    },
+    {
+      "id": "consonant-patterns-ng",
+      "title": "Consonant digraphs and trigraphs: ng",
+      "path": "data/lessons/consonant-patterns-ng.json",
+      "kind": "lesson",
+      "unit": "consonant-patterns",
+      "level": 3
+    },
+    {
+      "id": "consonant-patterns-qu",
+      "title": "Consonant digraphs and trigraphs: qu",
+      "path": "data/lessons/consonant-patterns-qu.json",
+      "kind": "lesson",
+      "unit": "consonant-patterns",
+      "level": 3
+    },
+    {
+      "id": "consonant-patterns-ph",
+      "title": "Consonant digraphs and trigraphs: ph",
+      "path": "data/lessons/consonant-patterns-ph.json",
+      "kind": "lesson",
+      "unit": "consonant-patterns",
+      "level": 3
+    },
+    {
+      "id": "consonant-patterns-tch",
+      "title": "Consonant digraphs and trigraphs: tch",
+      "path": "data/lessons/consonant-patterns-tch.json",
+      "kind": "lesson",
+      "unit": "consonant-patterns",
+      "level": 3
+    },
+    {
+      "id": "consonant-patterns-dge",
+      "title": "Consonant digraphs and trigraphs: dge",
+      "path": "data/lessons/consonant-patterns-dge.json",
+      "kind": "lesson",
+      "unit": "consonant-patterns",
+      "level": 3
+    },
+    {
+      "id": "consonant-blends-st",
+      "title": "Consonant blends: st",
+      "path": "data/lessons/consonant-blends-st.json",
+      "kind": "lesson",
+      "unit": "consonant-blends",
+      "level": 4
+    },
+    {
+      "id": "consonant-blends-sp",
+      "title": "Consonant blends: sp",
+      "path": "data/lessons/consonant-blends-sp.json",
+      "kind": "lesson",
+      "unit": "consonant-blends",
+      "level": 4
+    },
+    {
+      "id": "consonant-blends-sk",
+      "title": "Consonant blends: sk",
+      "path": "data/lessons/consonant-blends-sk.json",
+      "kind": "lesson",
+      "unit": "consonant-blends",
+      "level": 4
+    },
+    {
+      "id": "consonant-blends-sl",
+      "title": "Consonant blends: sl",
+      "path": "data/lessons/consonant-blends-sl.json",
+      "kind": "lesson",
+      "unit": "consonant-blends",
+      "level": 4
+    },
+    {
+      "id": "consonant-blends-sm",
+      "title": "Consonant blends: sm",
+      "path": "data/lessons/consonant-blends-sm.json",
+      "kind": "lesson",
+      "unit": "consonant-blends",
+      "level": 4
+    },
+    {
+      "id": "consonant-blends-sn",
+      "title": "Consonant blends: sn",
+      "path": "data/lessons/consonant-blends-sn.json",
+      "kind": "lesson",
+      "unit": "consonant-blends",
+      "level": 4
+    },
+    {
+      "id": "consonant-blends-cl",
+      "title": "Consonant blends: cl",
+      "path": "data/lessons/consonant-blends-cl.json",
+      "kind": "lesson",
+      "unit": "consonant-blends",
+      "level": 4
+    },
+    {
+      "id": "consonant-blends-fl",
+      "title": "Consonant blends: fl",
+      "path": "data/lessons/consonant-blends-fl.json",
+      "kind": "lesson",
+      "unit": "consonant-blends",
+      "level": 4
+    },
+    {
+      "id": "consonant-blends-gr",
+      "title": "Consonant blends: gr",
+      "path": "data/lessons/consonant-blends-gr.json",
+      "kind": "lesson",
+      "unit": "consonant-blends",
+      "level": 4
+    },
+    {
+      "id": "consonant-blends-tr",
+      "title": "Consonant blends: tr",
+      "path": "data/lessons/consonant-blends-tr.json",
+      "kind": "lesson",
+      "unit": "consonant-blends",
+      "level": 4
+    },
+    {
+      "id": "vowel-patterns-ai",
+      "title": "Common vowel patterns: ai",
+      "path": "data/lessons/vowel-patterns-ai.json",
+      "kind": "lesson",
+      "unit": "vowel-patterns",
+      "level": 5
+    },
+    {
+      "id": "vowel-patterns-ay",
+      "title": "Common vowel patterns: ay",
+      "path": "data/lessons/vowel-patterns-ay.json",
+      "kind": "lesson",
+      "unit": "vowel-patterns",
+      "level": 5
+    },
+    {
+      "id": "vowel-patterns-ee",
+      "title": "Common vowel patterns: ee",
+      "path": "data/lessons/vowel-patterns-ee.json",
+      "kind": "lesson",
+      "unit": "vowel-patterns",
+      "level": 5
+    },
+    {
+      "id": "vowel-patterns-ea",
+      "title": "Common vowel patterns: ea",
+      "path": "data/lessons/vowel-patterns-ea.json",
+      "kind": "lesson",
+      "unit": "vowel-patterns",
+      "level": 5
+    },
+    {
+      "id": "vowel-patterns-oa",
+      "title": "Common vowel patterns: oa",
+      "path": "data/lessons/vowel-patterns-oa.json",
+      "kind": "lesson",
+      "unit": "vowel-patterns",
+      "level": 5
+    },
+    {
+      "id": "vowel-patterns-ow",
+      "title": "Common vowel patterns: ow",
+      "path": "data/lessons/vowel-patterns-ow.json",
+      "kind": "lesson",
+      "unit": "vowel-patterns",
+      "level": 5
+    },
+    {
+      "id": "vowel-patterns-oo",
+      "title": "Common vowel patterns: oo",
+      "path": "data/lessons/vowel-patterns-oo.json",
+      "kind": "lesson",
+      "unit": "vowel-patterns",
+      "level": 5
+    },
+    {
+      "id": "vowel-patterns-oi",
+      "title": "Common vowel patterns: oi",
+      "path": "data/lessons/vowel-patterns-oi.json",
+      "kind": "lesson",
+      "unit": "vowel-patterns",
+      "level": 5
+    },
+    {
+      "id": "vowel-patterns-oy",
+      "title": "Common vowel patterns: oy",
+      "path": "data/lessons/vowel-patterns-oy.json",
+      "kind": "lesson",
+      "unit": "vowel-patterns",
+      "level": 5
+    },
+    {
+      "id": "vowel-patterns-ar",
+      "title": "Common vowel patterns: ar",
+      "path": "data/lessons/vowel-patterns-ar.json",
+      "kind": "lesson",
+      "unit": "vowel-patterns",
+      "level": 5
+    },
+    {
+      "id": "extended-patterns-er",
+      "title": "Extended vowel patterns: er",
+      "path": "data/lessons/extended-patterns-er.json",
+      "kind": "lesson",
+      "unit": "extended-patterns",
+      "level": 6
+    },
+    {
+      "id": "extended-patterns-ir",
+      "title": "Extended vowel patterns: ir",
+      "path": "data/lessons/extended-patterns-ir.json",
+      "kind": "lesson",
+      "unit": "extended-patterns",
+      "level": 6
+    },
+    {
+      "id": "extended-patterns-ur",
+      "title": "Extended vowel patterns: ur",
+      "path": "data/lessons/extended-patterns-ur.json",
+      "kind": "lesson",
+      "unit": "extended-patterns",
+      "level": 6
+    },
+    {
+      "id": "extended-patterns-or",
+      "title": "Extended vowel patterns: or",
+      "path": "data/lessons/extended-patterns-or.json",
+      "kind": "lesson",
+      "unit": "extended-patterns",
+      "level": 6
+    },
+    {
+      "id": "extended-patterns-ou",
+      "title": "Extended vowel patterns: ou",
+      "path": "data/lessons/extended-patterns-ou.json",
+      "kind": "lesson",
+      "unit": "extended-patterns",
+      "level": 6
+    },
+    {
+      "id": "extended-patterns-aw",
+      "title": "Extended vowel patterns: aw",
+      "path": "data/lessons/extended-patterns-aw.json",
+      "kind": "lesson",
+      "unit": "extended-patterns",
+      "level": 6
+    },
+    {
+      "id": "extended-patterns-au",
+      "title": "Extended vowel patterns: au",
+      "path": "data/lessons/extended-patterns-au.json",
+      "kind": "lesson",
+      "unit": "extended-patterns",
+      "level": 6
+    },
+    {
+      "id": "extended-patterns-air",
+      "title": "Extended vowel patterns: air",
+      "path": "data/lessons/extended-patterns-air.json",
+      "kind": "lesson",
+      "unit": "extended-patterns",
+      "level": 6
+    },
+    {
+      "id": "extended-patterns-ear",
+      "title": "Extended vowel patterns: ear",
+      "path": "data/lessons/extended-patterns-ear.json",
+      "kind": "lesson",
+      "unit": "extended-patterns",
+      "level": 6
+    },
+    {
+      "id": "extended-patterns-igh",
+      "title": "Extended vowel patterns: igh",
+      "path": "data/lessons/extended-patterns-igh.json",
+      "kind": "lesson",
+      "unit": "extended-patterns",
+      "level": 6
+    },
+    {
+      "id": "letter-pairs",
+      "title": "Letter pairs",
+      "path": "data/activities/letter-pairs.json",
+      "kind": "activity"
+    },
+    {
+      "id": "rhyme-pairs",
+      "title": "Rhyme awareness",
+      "path": "data/activities/rhyme-pairs.json",
+      "kind": "activity"
+    },
+    {
+      "id": "oral-language",
+      "title": "Oral language",
+      "path": "data/activities/oral-language.json",
+      "kind": "activity"
+    },
+    {
+      "id": "print-direction",
+      "title": "Print direction",
+      "path": "data/activities/print-direction.json",
+      "kind": "activity"
+    },
+    {
+      "id": "sound-identification",
+      "title": "Sound identification",
+      "path": "data/activities/sound-identification.json",
+      "kind": "activity"
+    },
+    {
+      "id": "word-blending",
+      "title": "Supported blending",
+      "path": "data/activities/word-blending.json",
+      "kind": "activity"
+    },
+    {
+      "id": "syllable-clapping",
+      "title": "Syllable awareness",
+      "path": "data/activities/syllable-clapping.json",
+      "kind": "activity"
+    },
+    {
+      "id": "word-reading",
+      "title": "Word reading",
+      "path": "data/activities/word-reading.json",
+      "kind": "activity"
+    },
+    {
+      "id": "sentence-reading",
+      "title": "Sentence reading",
+      "path": "data/activities/sentence-reading.json",
+      "kind": "activity"
+    },
+    {
+      "id": "reading-comfort",
+      "title": "Reading comfort",
+      "path": "data/activities/reading-comfort.json",
+      "kind": "activity"
+    },
+    {
+      "id": "listening-comprehension",
+      "title": "Listening comprehension",
+      "path": "data/activities/listening-comprehension.json",
+      "kind": "activity"
+    },
+    {
+      "id": "follow-up-notes",
+      "title": "Follow-up support",
+      "path": "data/activities/follow-up-notes.json",
+      "kind": "activity"
+    }
+  ]
+}
