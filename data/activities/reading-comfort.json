@@ -1,0 +1,12 @@
+{
+  "id": "reading-comfort",
+  "title": "Reading comfort",
+  "instruction": "Ask whether the learner wants to continue or pause.",
+  "options": [
+    "comfortable",
+    "support-needed",
+    "not-observed"
+  ],
+  "clinical_diagnosis": false,
+  "purpose": "Teacher-supported educational observation"
+}
