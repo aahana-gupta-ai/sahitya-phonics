@@ -1,0 +1,43 @@
+{
+  "id": "vowel-patterns-oa",
+  "title": "Common vowel patterns: oa",
+  "unit": "vowel-patterns",
+  "level": 5,
+  "sequence": 45,
+  "pattern": "oa",
+  "words": [
+    "boat",
+    "coat",
+    "road"
+  ],
+  "minutes": 10,
+  "review_status": "new-demo-curriculum-unreviewed",
+  "steps": [
+    {
+      "label": "Listen",
+      "instruction": "An adult models the pattern oa in boat. Discuss accent differences where relevant."
+    },
+    {
+      "label": "Blend",
+      "instruction": "Read boat, coat, road together. Use sounds modelled by the teacher rather than deriving phonemes from letter count."
+    },
+    {
+      "label": "Practice",
+      "instruction": "Find the written pattern oa and read the word aloud."
+    },
+    {
+      "label": "Apply",
+      "instruction": "Use one example word in a spoken sentence, then stop or repeat according to comfort."
+    }
+  ],
+  "quiz": {
+    "prompt": "Which written word contains the pattern “oa”?",
+    "choices": [
+      "boat",
+      "pen",
+      "cat"
+    ],
+    "answer": "boat"
+  },
+  "teacher_note": "These are new illustrative lesson plans, not the original Sahitya curriculum. Word pronunciation and pattern choice require local teacher review."
+}
