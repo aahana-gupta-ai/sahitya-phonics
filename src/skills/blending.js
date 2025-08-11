@@ -1,0 +1,1 @@
+import {normalize} from './normalize.js';export function blendWrittenSegments(parts){if(!Array.isArray(parts)||parts.some(x=>typeof x!=='string'))throw new Error('Written segments required');return parts.map(normalize).join('');}
