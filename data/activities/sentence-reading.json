@@ -1,0 +1,12 @@
+{
+  "id": "sentence-reading",
+  "title": "Sentence reading",
+  "instruction": "Read a short, familiar sentence together.",
+  "options": [
+    "comfortable",
+    "support-needed",
+    "not-observed"
+  ],
+  "clinical_diagnosis": false,
+  "purpose": "Teacher-supported educational observation"
+}
