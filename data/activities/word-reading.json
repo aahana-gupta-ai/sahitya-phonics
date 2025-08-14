@@ -1,0 +1,12 @@
+{
+  "id": "word-reading",
+  "title": "Word reading",
+  "instruction": "Offer a few familiar words with support.",
+  "options": [
+    "comfortable",
+    "support-needed",
+    "not-observed"
+  ],
+  "clinical_diagnosis": false,
+  "purpose": "Teacher-supported educational observation"
+}
