@@ -1,0 +1,12 @@
+{
+  "id": "syllable-clapping",
+  "title": "Syllable awareness",
+  "instruction": "Use a familiar word and model clapping spoken syllables.",
+  "options": [
+    "comfortable",
+    "support-needed",
+    "not-observed"
+  ],
+  "clinical_diagnosis": false,
+  "purpose": "Teacher-supported educational observation"
+}
