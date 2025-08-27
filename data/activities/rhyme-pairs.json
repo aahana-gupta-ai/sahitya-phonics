@@ -1,0 +1,12 @@
+{
+  "id": "rhyme-pairs",
+  "title": "Rhyme awareness",
+  "instruction": "A teacher reads familiar pairs and invites a spoken response.",
+  "options": [
+    "comfortable",
+    "support-needed",
+    "not-observed"
+  ],
+  "clinical_diagnosis": false,
+  "purpose": "Teacher-supported educational observation"
+}
