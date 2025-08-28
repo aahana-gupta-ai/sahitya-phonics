@@ -1,0 +1,43 @@
+{
+  "id": "consonant-blends-tr",
+  "title": "Consonant blends: tr",
+  "unit": "consonant-blends",
+  "level": 4,
+  "sequence": 40,
+  "pattern": "tr",
+  "words": [
+    "trip",
+    "trap",
+    "trim"
+  ],
+  "minutes": 10,
+  "review_status": "new-demo-curriculum-unreviewed",
+  "steps": [
+    {
+      "label": "Listen",
+      "instruction": "An adult models the pattern tr in trip. Discuss accent differences where relevant."
+    },
+    {
+      "label": "Blend",
+      "instruction": "Read trip, trap, trim together. Use sounds modelled by the teacher rather than deriving phonemes from letter count."
+    },
+    {
+      "label": "Practice",
+      "instruction": "Find the written pattern tr and read the word aloud."
+    },
+    {
+      "label": "Apply",
+      "instruction": "Use one example word in a spoken sentence, then stop or repeat according to comfort."
+    }
+  ],
+  "quiz": {
+    "prompt": "Which written word contains the pattern “tr”?",
+    "choices": [
+      "trip",
+      "pen",
+      "cat"
+    ],
+    "answer": "trip"
+  },
+  "teacher_note": "These are new illustrative lesson plans, not the original Sahitya curriculum. Word pronunciation and pattern choice require local teacher review."
+}
