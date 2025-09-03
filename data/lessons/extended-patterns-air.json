@@ -1,0 +1,43 @@
+{
+  "id": "extended-patterns-air",
+  "title": "Extended vowel patterns: air",
+  "unit": "extended-patterns",
+  "level": 6,
+  "sequence": 58,
+  "pattern": "air",
+  "words": [
+    "air",
+    "fair",
+    "chair"
+  ],
+  "minutes": 10,
+  "review_status": "new-demo-curriculum-unreviewed",
+  "steps": [
+    {
+      "label": "Listen",
+      "instruction": "An adult models the pattern air in air. Discuss accent differences where relevant."
+    },
+    {
+      "label": "Blend",
+      "instruction": "Read air, fair, chair together. Use sounds modelled by the teacher rather than deriving phonemes from letter count."
+    },
+    {
+      "label": "Practice",
+      "instruction": "Find the written pattern air and read the word aloud."
+    },
+    {
+      "label": "Apply",
+      "instruction": "Use one example word in a spoken sentence, then stop or repeat according to comfort."
+    }
+  ],
+  "quiz": {
+    "prompt": "Which written word contains the pattern “air”?",
+    "choices": [
+      "air",
+      "pen",
+      "cat"
+    ],
+    "answer": "air"
+  },
+  "teacher_note": "These are new illustrative lesson plans, not the original Sahitya curriculum. Word pronunciation and pattern choice require local teacher review."
+}
