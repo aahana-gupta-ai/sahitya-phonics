@@ -1,0 +1,43 @@
+{
+  "id": "short-vowels-i",
+  "title": "Short vowels and word families: i",
+  "unit": "short-vowels",
+  "level": 2,
+  "sequence": 13,
+  "pattern": "i",
+  "words": [
+    "pin",
+    "sit",
+    "fin"
+  ],
+  "minutes": 10,
+  "review_status": "new-demo-curriculum-unreviewed",
+  "steps": [
+    {
+      "label": "Listen",
+      "instruction": "An adult models the pattern i in pin. Discuss accent differences where relevant."
+    },
+    {
+      "label": "Blend",
+      "instruction": "Read pin, sit, fin together. Use sounds modelled by the teacher rather than deriving phonemes from letter count."
+    },
+    {
+      "label": "Practice",
+      "instruction": "Find the written pattern i and read the word aloud."
+    },
+    {
+      "label": "Apply",
+      "instruction": "Use one example word in a spoken sentence, then stop or repeat according to comfort."
+    }
+  ],
+  "quiz": {
+    "prompt": "Which written word contains the pattern “i”?",
+    "choices": [
+      "pin",
+      "pen",
+      "cat"
+    ],
+    "answer": "pin"
+  },
+  "teacher_note": "These are new illustrative lesson plans, not the original Sahitya curriculum. Word pronunciation and pattern choice require local teacher review."
+}
