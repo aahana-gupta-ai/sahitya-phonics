@@ -1,0 +1,1 @@
+import {normalize} from './normalize.js';export function wordSequence(answer,expected){const a=normalize(answer).split(' ').filter(Boolean);return a.length===expected.length&&a.every((v,i)=>v===normalize(expected[i]));}
