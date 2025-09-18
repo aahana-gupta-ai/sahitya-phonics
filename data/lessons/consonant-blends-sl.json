@@ -1,0 +1,43 @@
+{
+  "id": "consonant-blends-sl",
+  "title": "Consonant blends: sl",
+  "unit": "consonant-blends",
+  "level": 4,
+  "sequence": 34,
+  "pattern": "sl",
+  "words": [
+    "slip",
+    "sled",
+    "slot"
+  ],
+  "minutes": 10,
+  "review_status": "new-demo-curriculum-unreviewed",
+  "steps": [
+    {
+      "label": "Listen",
+      "instruction": "An adult models the pattern sl in slip. Discuss accent differences where relevant."
+    },
+    {
+      "label": "Blend",
+      "instruction": "Read slip, sled, slot together. Use sounds modelled by the teacher rather than deriving phonemes from letter count."
+    },
+    {
+      "label": "Practice",
+      "instruction": "Find the written pattern sl and read the word aloud."
+    },
+    {
+      "label": "Apply",
+      "instruction": "Use one example word in a spoken sentence, then stop or repeat according to comfort."
+    }
+  ],
+  "quiz": {
+    "prompt": "Which written word contains the pattern “sl”?",
+    "choices": [
+      "slip",
+      "pen",
+      "cat"
+    ],
+    "answer": "slip"
+  },
+  "teacher_note": "These are new illustrative lesson plans, not the original Sahitya curriculum. Word pronunciation and pattern choice require local teacher review."
+}
