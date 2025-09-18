@@ -1,0 +1,43 @@
+{
+  "id": "consonant-patterns-ng",
+  "title": "Consonant digraphs and trigraphs: ng",
+  "unit": "consonant-patterns",
+  "level": 3,
+  "sequence": 26,
+  "pattern": "ng",
+  "words": [
+    "ring",
+    "king",
+    "song"
+  ],
+  "minutes": 10,
+  "review_status": "new-demo-curriculum-unreviewed",
+  "steps": [
+    {
+      "label": "Listen",
+      "instruction": "An adult models the pattern ng in ring. Discuss accent differences where relevant."
+    },
+    {
+      "label": "Blend",
+      "instruction": "Read ring, king, song together. Use sounds modelled by the teacher rather than deriving phonemes from letter count."
+    },
+    {
+      "label": "Practice",
+      "instruction": "Find the written pattern ng and read the word aloud."
+    },
+    {
+      "label": "Apply",
+      "instruction": "Use one example word in a spoken sentence, then stop or repeat according to comfort."
+    }
+  ],
+  "quiz": {
+    "prompt": "Which written word contains the pattern “ng”?",
+    "choices": [
+      "ring",
+      "pen",
+      "cat"
+    ],
+    "answer": "ring"
+  },
+  "teacher_note": "These are new illustrative lesson plans, not the original Sahitya curriculum. Word pronunciation and pattern choice require local teacher review."
+}
