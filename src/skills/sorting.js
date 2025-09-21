@@ -1,0 +1,1 @@
+import {patternMatch} from './pattern-match.js';export function sortByPattern(words,pattern){return {matching:words.filter(w=>patternMatch(w,pattern)),other:words.filter(w=>!patternMatch(w,pattern))};}
