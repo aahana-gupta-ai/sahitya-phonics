@@ -1,0 +1,43 @@
+{
+  "id": "short-vowels-og",
+  "title": "Short vowels and word families: og",
+  "unit": "short-vowels",
+  "level": 2,
+  "sequence": 19,
+  "pattern": "og",
+  "words": [
+    "dog",
+    "log",
+    "fog"
+  ],
+  "minutes": 10,
+  "review_status": "new-demo-curriculum-unreviewed",
+  "steps": [
+    {
+      "label": "Listen",
+      "instruction": "An adult models the pattern og in dog. Discuss accent differences where relevant."
+    },
+    {
+      "label": "Blend",
+      "instruction": "Read dog, log, fog together. Use sounds modelled by the teacher rather than deriving phonemes from letter count."
+    },
+    {
+      "label": "Practice",
+      "instruction": "Find the written pattern og and read the word aloud."
+    },
+    {
+      "label": "Apply",
+      "instruction": "Use one example word in a spoken sentence, then stop or repeat according to comfort."
+    }
+  ],
+  "quiz": {
+    "prompt": "Which written word contains the pattern “og”?",
+    "choices": [
+      "dog",
+      "pen",
+      "cat"
+    ],
+    "answer": "dog"
+  },
+  "teacher_note": "These are new illustrative lesson plans, not the original Sahitya curriculum. Word pronunciation and pattern choice require local teacher review."
+}
