@@ -1,0 +1,12 @@
+{
+  "id": "print-direction",
+  "title": "Print direction",
+  "instruction": "Observe how a learner follows a short line of print.",
+  "options": [
+    "comfortable",
+    "support-needed",
+    "not-observed"
+  ],
+  "clinical_diagnosis": false,
+  "purpose": "Teacher-supported educational observation"
+}
