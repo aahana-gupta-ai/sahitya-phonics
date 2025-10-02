@@ -1,0 +1,12 @@
+{
+  "id": "oral-language",
+  "title": "Oral language",
+  "instruction": "Invite an optional familiar spoken description.",
+  "options": [
+    "comfortable",
+    "support-needed",
+    "not-observed"
+  ],
+  "clinical_diagnosis": false,
+  "purpose": "Teacher-supported educational observation"
+}
