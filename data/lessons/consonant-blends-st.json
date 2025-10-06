@@ -1,0 +1,43 @@
+{
+  "id": "consonant-blends-st",
+  "title": "Consonant blends: st",
+  "unit": "consonant-blends",
+  "level": 4,
+  "sequence": 31,
+  "pattern": "st",
+  "words": [
+    "stop",
+    "step",
+    "stamp"
+  ],
+  "minutes": 10,
+  "review_status": "new-demo-curriculum-unreviewed",
+  "steps": [
+    {
+      "label": "Listen",
+      "instruction": "An adult models the pattern st in stop. Discuss accent differences where relevant."
+    },
+    {
+      "label": "Blend",
+      "instruction": "Read stop, step, stamp together. Use sounds modelled by the teacher rather than deriving phonemes from letter count."
+    },
+    {
+      "label": "Practice",
+      "instruction": "Find the written pattern st and read the word aloud."
+    },
+    {
+      "label": "Apply",
+      "instruction": "Use one example word in a spoken sentence, then stop or repeat according to comfort."
+    }
+  ],
+  "quiz": {
+    "prompt": "Which written word contains the pattern “st”?",
+    "choices": [
+      "stop",
+      "pen",
+      "cat"
+    ],
+    "answer": "stop"
+  },
+  "teacher_note": "These are new illustrative lesson plans, not the original Sahitya curriculum. Word pronunciation and pattern choice require local teacher review."
+}
