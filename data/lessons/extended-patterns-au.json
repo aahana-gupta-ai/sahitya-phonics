@@ -1,0 +1,43 @@
+{
+  "id": "extended-patterns-au",
+  "title": "Extended vowel patterns: au",
+  "unit": "extended-patterns",
+  "level": 6,
+  "sequence": 57,
+  "pattern": "au",
+  "words": [
+    "haul",
+    "pause",
+    "launch"
+  ],
+  "minutes": 10,
+  "review_status": "new-demo-curriculum-unreviewed",
+  "steps": [
+    {
+      "label": "Listen",
+      "instruction": "An adult models the pattern au in haul. Discuss accent differences where relevant."
+    },
+    {
+      "label": "Blend",
+      "instruction": "Read haul, pause, launch together. Use sounds modelled by the teacher rather than deriving phonemes from letter count."
+    },
+    {
+      "label": "Practice",
+      "instruction": "Find the written pattern au and read the word aloud."
+    },
+    {
+      "label": "Apply",
+      "instruction": "Use one example word in a spoken sentence, then stop or repeat according to comfort."
+    }
+  ],
+  "quiz": {
+    "prompt": "Which written word contains the pattern “au”?",
+    "choices": [
+      "haul",
+      "pen",
+      "cat"
+    ],
+    "answer": "haul"
+  },
+  "teacher_note": "These are new illustrative lesson plans, not the original Sahitya curriculum. Word pronunciation and pattern choice require local teacher review."
+}
