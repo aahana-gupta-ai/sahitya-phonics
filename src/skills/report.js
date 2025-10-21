@@ -1,0 +1,1 @@
+export function observationSummary(records){return {comfortable:records.filter(r=>r==='comfortable').length,support_needed:records.filter(r=>r==='support-needed').length,not_observed:records.filter(r=>r==='not-observed').length,diagnosis:null};}
