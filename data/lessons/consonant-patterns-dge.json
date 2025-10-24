@@ -1,0 +1,43 @@
+{
+  "id": "consonant-patterns-dge",
+  "title": "Consonant digraphs and trigraphs: dge",
+  "unit": "consonant-patterns",
+  "level": 3,
+  "sequence": 30,
+  "pattern": "dge",
+  "words": [
+    "edge",
+    "badge",
+    "bridge"
+  ],
+  "minutes": 10,
+  "review_status": "new-demo-curriculum-unreviewed",
+  "steps": [
+    {
+      "label": "Listen",
+      "instruction": "An adult models the pattern dge in edge. Discuss accent differences where relevant."
+    },
+    {
+      "label": "Blend",
+      "instruction": "Read edge, badge, bridge together. Use sounds modelled by the teacher rather than deriving phonemes from letter count."
+    },
+    {
+      "label": "Practice",
+      "instruction": "Find the written pattern dge and read the word aloud."
+    },
+    {
+      "label": "Apply",
+      "instruction": "Use one example word in a spoken sentence, then stop or repeat according to comfort."
+    }
+  ],
+  "quiz": {
+    "prompt": "Which written word contains the pattern “dge”?",
+    "choices": [
+      "edge",
+      "pen",
+      "cat"
+    ],
+    "answer": "edge"
+  },
+  "teacher_note": "These are new illustrative lesson plans, not the original Sahitya curriculum. Word pronunciation and pattern choice require local teacher review."
+}
