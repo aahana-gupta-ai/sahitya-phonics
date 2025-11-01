@@ -1,0 +1,43 @@
+{
+  "id": "short-vowels-o",
+  "title": "Short vowels and word families: o",
+  "unit": "short-vowels",
+  "level": 2,
+  "sequence": 14,
+  "pattern": "o",
+  "words": [
+    "pot",
+    "top",
+    "log"
+  ],
+  "minutes": 10,
+  "review_status": "new-demo-curriculum-unreviewed",
+  "steps": [
+    {
+      "label": "Listen",
+      "instruction": "An adult models the pattern o in pot. Discuss accent differences where relevant."
+    },
+    {
+      "label": "Blend",
+      "instruction": "Read pot, top, log together. Use sounds modelled by the teacher rather than deriving phonemes from letter count."
+    },
+    {
+      "label": "Practice",
+      "instruction": "Find the written pattern o and read the word aloud."
+    },
+    {
+      "label": "Apply",
+      "instruction": "Use one example word in a spoken sentence, then stop or repeat according to comfort."
+    }
+  ],
+  "quiz": {
+    "prompt": "Which written word contains the pattern “o”?",
+    "choices": [
+      "pot",
+      "pen",
+      "cat"
+    ],
+    "answer": "pot"
+  },
+  "teacher_note": "These are new illustrative lesson plans, not the original Sahitya curriculum. Word pronunciation and pattern choice require local teacher review."
+}
