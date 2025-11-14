@@ -1,0 +1,15 @@
+{
+  "id": "sahitya-phonics",
+  "title": "Sahitya",
+  "mode": "local-demo",
+  "external_services": false,
+  "expected_files": 160,
+  "original_source_included": false,
+  "topics": [
+    "web-development",
+    "education",
+    "literacy",
+    "dyslexia",
+    "whatsapp"
+  ]
+}
