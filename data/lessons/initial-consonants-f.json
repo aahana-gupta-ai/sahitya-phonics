@@ -1,0 +1,43 @@
+{
+  "id": "initial-consonants-f",
+  "title": "Initial consonants: f",
+  "unit": "initial-consonants",
+  "level": 1,
+  "sequence": 4,
+  "pattern": "f",
+  "words": [
+    "fan",
+    "fin",
+    "fun"
+  ],
+  "minutes": 10,
+  "review_status": "new-demo-curriculum-unreviewed",
+  "steps": [
+    {
+      "label": "Listen",
+      "instruction": "An adult models the pattern f in fan. Discuss accent differences where relevant."
+    },
+    {
+      "label": "Blend",
+      "instruction": "Read fan, fin, fun together. Use sounds modelled by the teacher rather than deriving phonemes from letter count."
+    },
+    {
+      "label": "Practice",
+      "instruction": "Find the written pattern f and read the word aloud."
+    },
+    {
+      "label": "Apply",
+      "instruction": "Use one example word in a spoken sentence, then stop or repeat according to comfort."
+    }
+  ],
+  "quiz": {
+    "prompt": "Which written word contains the pattern “f”?",
+    "choices": [
+      "fan",
+      "pen",
+      "cat"
+    ],
+    "answer": "fan"
+  },
+  "teacher_note": "These are new illustrative lesson plans, not the original Sahitya curriculum. Word pronunciation and pattern choice require local teacher review."
+}
