@@ -1,0 +1,43 @@
+{
+  "id": "short-vowels-u",
+  "title": "Short vowels and word families: u",
+  "unit": "short-vowels",
+  "level": 2,
+  "sequence": 15,
+  "pattern": "u",
+  "words": [
+    "sun",
+    "cup",
+    "mud"
+  ],
+  "minutes": 10,
+  "review_status": "new-demo-curriculum-unreviewed",
+  "steps": [
+    {
+      "label": "Listen",
+      "instruction": "An adult models the pattern u in sun. Discuss accent differences where relevant."
+    },
+    {
+      "label": "Blend",
+      "instruction": "Read sun, cup, mud together. Use sounds modelled by the teacher rather than deriving phonemes from letter count."
+    },
+    {
+      "label": "Practice",
+      "instruction": "Find the written pattern u and read the word aloud."
+    },
+    {
+      "label": "Apply",
+      "instruction": "Use one example word in a spoken sentence, then stop or repeat according to comfort."
+    }
+  ],
+  "quiz": {
+    "prompt": "Which written word contains the pattern “u”?",
+    "choices": [
+      "sun",
+      "pen",
+      "cat"
+    ],
+    "answer": "sun"
+  },
+  "teacher_note": "These are new illustrative lesson plans, not the original Sahitya curriculum. Word pronunciation and pattern choice require local teacher review."
+}
