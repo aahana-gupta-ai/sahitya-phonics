@@ -1,0 +1,43 @@
+{
+  "id": "consonant-blends-gr",
+  "title": "Consonant blends: gr",
+  "unit": "consonant-blends",
+  "level": 4,
+  "sequence": 39,
+  "pattern": "gr",
+  "words": [
+    "grip",
+    "grin",
+    "grab"
+  ],
+  "minutes": 10,
+  "review_status": "new-demo-curriculum-unreviewed",
+  "steps": [
+    {
+      "label": "Listen",
+      "instruction": "An adult models the pattern gr in grip. Discuss accent differences where relevant."
+    },
+    {
+      "label": "Blend",
+      "instruction": "Read grip, grin, grab together. Use sounds modelled by the teacher rather than deriving phonemes from letter count."
+    },
+    {
+      "label": "Practice",
+      "instruction": "Find the written pattern gr and read the word aloud."
+    },
+    {
+      "label": "Apply",
+      "instruction": "Use one example word in a spoken sentence, then stop or repeat according to comfort."
+    }
+  ],
+  "quiz": {
+    "prompt": "Which written word contains the pattern “gr”?",
+    "choices": [
+      "grip",
+      "pen",
+      "cat"
+    ],
+    "answer": "grip"
+  },
+  "teacher_note": "These are new illustrative lesson plans, not the original Sahitya curriculum. Word pronunciation and pattern choice require local teacher review."
+}
