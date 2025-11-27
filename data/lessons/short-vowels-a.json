@@ -1,0 +1,43 @@
+{
+  "id": "short-vowels-a",
+  "title": "Short vowels and word families: a",
+  "unit": "short-vowels",
+  "level": 2,
+  "sequence": 11,
+  "pattern": "a",
+  "words": [
+    "cat",
+    "hat",
+    "map"
+  ],
+  "minutes": 10,
+  "review_status": "new-demo-curriculum-unreviewed",
+  "steps": [
+    {
+      "label": "Listen",
+      "instruction": "An adult models the pattern a in cat. Discuss accent differences where relevant."
+    },
+    {
+      "label": "Blend",
+      "instruction": "Read cat, hat, map together. Use sounds modelled by the teacher rather than deriving phonemes from letter count."
+    },
+    {
+      "label": "Practice",
+      "instruction": "Find the written pattern a and read the word aloud."
+    },
+    {
+      "label": "Apply",
+      "instruction": "Use one example word in a spoken sentence, then stop or repeat according to comfort."
+    }
+  ],
+  "quiz": {
+    "prompt": "Which written word contains the pattern “a”?",
+    "choices": [
+      "cat",
+      "pen",
+      "sun"
+    ],
+    "answer": "cat"
+  },
+  "teacher_note": "These are new illustrative lesson plans, not the original Sahitya curriculum. Word pronunciation and pattern choice require local teacher review."
+}
