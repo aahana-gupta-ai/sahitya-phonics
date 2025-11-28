@@ -1,0 +1,43 @@
+{
+  "id": "vowel-patterns-ea",
+  "title": "Common vowel patterns: ea",
+  "unit": "vowel-patterns",
+  "level": 5,
+  "sequence": 44,
+  "pattern": "ea",
+  "words": [
+    "team",
+    "leaf",
+    "seat"
+  ],
+  "minutes": 10,
+  "review_status": "new-demo-curriculum-unreviewed",
+  "steps": [
+    {
+      "label": "Listen",
+      "instruction": "An adult models the pattern ea in team. Discuss accent differences where relevant."
+    },
+    {
+      "label": "Blend",
+      "instruction": "Read team, leaf, seat together. Use sounds modelled by the teacher rather than deriving phonemes from letter count."
+    },
+    {
+      "label": "Practice",
+      "instruction": "Find the written pattern ea and read the word aloud."
+    },
+    {
+      "label": "Apply",
+      "instruction": "Use one example word in a spoken sentence, then stop or repeat according to comfort."
+    }
+  ],
+  "quiz": {
+    "prompt": "Which written word contains the pattern “ea”?",
+    "choices": [
+      "team",
+      "pen",
+      "cat"
+    ],
+    "answer": "team"
+  },
+  "teacher_note": "These are new illustrative lesson plans, not the original Sahitya curriculum. Word pronunciation and pattern choice require local teacher review."
+}
