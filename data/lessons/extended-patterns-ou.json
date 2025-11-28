@@ -1,0 +1,43 @@
+{
+  "id": "extended-patterns-ou",
+  "title": "Extended vowel patterns: ou",
+  "unit": "extended-patterns",
+  "level": 6,
+  "sequence": 55,
+  "pattern": "ou",
+  "words": [
+    "out",
+    "shout",
+    "cloud"
+  ],
+  "minutes": 10,
+  "review_status": "new-demo-curriculum-unreviewed",
+  "steps": [
+    {
+      "label": "Listen",
+      "instruction": "An adult models the pattern ou in out. Discuss accent differences where relevant."
+    },
+    {
+      "label": "Blend",
+      "instruction": "Read out, shout, cloud together. Use sounds modelled by the teacher rather than deriving phonemes from letter count."
+    },
+    {
+      "label": "Practice",
+      "instruction": "Find the written pattern ou and read the word aloud."
+    },
+    {
+      "label": "Apply",
+      "instruction": "Use one example word in a spoken sentence, then stop or repeat according to comfort."
+    }
+  ],
+  "quiz": {
+    "prompt": "Which written word contains the pattern “ou”?",
+    "choices": [
+      "out",
+      "pen",
+      "cat"
+    ],
+    "answer": "out"
+  },
+  "teacher_note": "These are new illustrative lesson plans, not the original Sahitya curriculum. Word pronunciation and pattern choice require local teacher review."
+}
