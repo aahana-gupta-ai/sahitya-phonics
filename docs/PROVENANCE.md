@@ -1,3 +1,9 @@
-# Source provenance: Sahitya
+# Provenance and authorship
 
-The uploaded README describes Aahana Gupta's original project. New starter source, tests, fixtures, and documentation in this package were generated for the requested portfolio bundle. They are not recovered production code, evidence of deployment, or evidence of clinical or educational effectiveness. Supplied ADAS-Cog legacy files are preserved unchanged only in that repository.
+The **Sahitya educational concept, phonics content direction, classroom work, and project development** predate this public repository.
+
+Sahitya was piloted before the GitHub repository was created. The repository was consolidated in **October 2026** as a public demonstration and documentation layer.
+
+Some later demo code, tests, fictional progress examples, and documentation were created with AI-assisted development tools. Those additions are not presented as the original classroom implementation.
+
+The README separates project chronology from repository chronology explicitly.
