@@ -6,6 +6,13 @@ Sahitya began with a practical constraint: many children who need structured lit
 
 So I designed the learning system around tools families and teachers already use.
 
+## Project chronology
+
+- **January-April 2026:** Sahitya was piloted as a structured-literacy programme.
+- The work then expanded through further classroom and community use.
+- **October 2026:** this GitHub repository was consolidated as a public demonstration and documentation layer.
+- The repository creation date is therefore **not the beginning of Sahitya**.
+
 ## The idea
 
 Sahitya combines structured phonics practice, short lessons, printable resources, and simple teacher/parent workflows. My broader work on the project has included writing phonics songs and designing materials intended to make repeated practice easier to deliver at scale.
@@ -45,5 +52,7 @@ For Sahitya, accessibility often means reducing friction rather than adding feat
 ## Provenance
 
 Sahitya’s educational concept, content direction, and project work are mine. The current public demo scaffolding was created later with AI-assisted development tools and should not be confused with the original classroom implementation. See `docs/PROVENANCE.md` and `NOTICE.md`.
+
+[See the broader project timeline →](https://github.com/aahana-gupta-ai/aahana-gupta-ai/blob/main/PROJECT_TIMELINE.md)
 
 **Themes:** literacy · phonics · accessibility · education · low-friction design
