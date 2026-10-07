@@ -1,46 +1,49 @@
 # Sahitya
 
-A practical phonics learning workspace.
+**A low-friction phonics learning system designed for classrooms and families that may not have access to specialised literacy support.**
 
-**Package status:** runnable portfolio starter. Only the ADAS-Cog repository also contains supplied original web source in `legacy/`. Other project production code was not supplied. Newly generated code must not be represented as the original implementation.
+Sahitya began with a practical constraint: many children who need structured literacy support are not going to download another app, attend specialist sessions, or use expensive software.
 
-## What works in this starter
+So I designed the learning system around tools families and teachers already use.
 
-- Sixty new English example lessons across six teaching units.
-- Written-pattern practice, local progress history, and twelve educational observations.
-- Lesson-text and fictional progress exports; no dyslexia diagnosis is generated.
+## The idea
 
-## Run
+Sahitya combines structured phonics practice, short lessons, printable resources, and simple teacher/parent workflows. My broader work on the project has included writing phonics songs and designing materials intended to make repeated practice easier to deliver at scale.
+
+## What this repository demonstrates
+
+- Example phonics lessons organised by teaching unit
+- Written-pattern practice
+- Local progress history
+- Educational observation examples
+- Lesson-text and fictional progress exports
+
+This public repository does **not** diagnose dyslexia and should not be used as a clinical screening tool.
+
+## Run the demonstration
 
 ```bash
 python3 scripts/serve.py
 ```
 
-Open http://127.0.0.1:8000. Use the bundled example content. No dependency install or account is required.
+Then open `http://127.0.0.1:8000`.
 
-## Verify
+## What I care about here
 
-```bash
-node --test
-node scripts/verify.mjs
-```
+The technical question is not just “can I make a literacy app?” It is: **how little technology can a useful intervention require?**
 
-## Contents
+For Sahitya, accessibility often means reducing friction rather than adding features.
 
-- `src/`: functioning browser application and reusable helpers.
-- `data/`: indexed demonstration resources.
-- `tests/`: behavior and data-integrity tests.
-- `docs/`: architecture, provenance, integration limits, and workflow guides.
-- `schemas/` and `examples/`: documented export formats.
+## Repository structure
 
-Every project is packaged with exactly **160 files**, including code, resources, tests, and documentation; file count is not a measure of research quality.
+- `src/` — demonstration interface
+- `data/` — example lessons and fictional progress data
+- `tests/` — behaviour and data-integrity tests
+- `docs/` — architecture, accessibility, provenance, and workflow notes
+- `schemas/`, `examples/` — export formats
 
-## Topics
+## Provenance
 
-`web-development` `education` `literacy` `dyslexia` `whatsapp`
+Sahitya’s educational concept, content direction, and project work are mine. The current public demo scaffolding was created later with AI-assisted development tools and should not be confused with the original classroom implementation. See `docs/PROVENANCE.md` and `NOTICE.md`.
 
-Set these through GitHub's About settings.
-
-## Attribution and rights
-
-Project identity and background come from the uploaded Aahana Gupta descriptions. Starter code and new example content were generated for this bundle. No new open-source license is assigned. Review `NOTICE.md` and `docs/PROVENANCE.md` before public distribution.
+**Themes:** literacy · phonics · accessibility · education · low-friction design
